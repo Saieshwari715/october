@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Saieshwari715/october/tree/master/0890-lemonade-change) |
+| [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Saieshwari715/october/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Greedy
 |  |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Saieshwari715/october/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
+## Sorting
+|  |
+| ------- |
+| [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
 <!---LeetCode Topics End-->
