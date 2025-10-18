@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saieshwari715/october/tree/master/0004-median-of-two-sorted-arrays) |
 | [0890-lemonade-change](https://github.com/Saieshwari715/october/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Saieshwari715/october/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saieshwari715/october/tree/master/0004-median-of-two-sorted-arrays) |
 | [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saieshwari715/october/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/Saieshwari715/october/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
