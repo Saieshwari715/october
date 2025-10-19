@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Saieshwari715/october/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/Saieshwari715/october/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Saieshwari715/october/tree/master/0948-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saieshwari715/october/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saieshwari715/october/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
