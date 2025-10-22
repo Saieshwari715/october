@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saieshwari715/october/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Saieshwari715/october/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0890-lemonade-change](https://github.com/Saieshwari715/october/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Saieshwari715/october/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Saieshwari715/october/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/Saieshwari715/october/tree/master/0948-sort-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Saieshwari715/october/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Saieshwari715/october/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saieshwari715/october/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Saieshwari715/october/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
