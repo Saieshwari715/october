@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Saieshwari715/october/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/Saieshwari715/october/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Saieshwari715/october/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saieshwari715/october/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saieshwari715/october/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Saieshwari715/october/tree/master/0948-sort-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saieshwari715/october/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -97,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saieshwari715/october/tree/master/0022-generate-parentheses) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saieshwari715/october/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Saieshwari715/october/tree/master/0898-transpose-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saieshwari715/october/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
