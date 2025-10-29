@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saieshwari715/october/tree/master/0022-generate-parentheses) |
+| [0520-detect-capital](https://github.com/Saieshwari715/october/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Saieshwari715/october/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/october/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/Saieshwari715/october/tree/master/2032-largest-odd-number-in-string) |
