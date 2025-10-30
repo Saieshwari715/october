@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Saieshwari715/october/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0917-boats-to-save-people](https://github.com/Saieshwari715/october/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Saieshwari715/october/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saieshwari715/october/tree/master/1019-squares-of-a-sorted-array) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saieshwari715/october/tree/master/2174-next-greater-numerically-balanced-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Saieshwari715/october/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
