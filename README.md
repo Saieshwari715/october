@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Saieshwari715/october/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Saieshwari715/october/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Saieshwari715/october/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saieshwari715/october/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0874-backspace-string-compare](https://github.com/Saieshwari715/october/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Saieshwari715/october/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Saieshwari715/october/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saieshwari715/october/tree/master/1019-squares-of-a-sorted-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saieshwari715/october/tree/master/0022-generate-parentheses) |
 | [0520-detect-capital](https://github.com/Saieshwari715/october/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Saieshwari715/october/tree/master/0742-to-lower-case) |
+| [0874-backspace-string-compare](https://github.com/Saieshwari715/october/tree/master/0874-backspace-string-compare) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/october/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/Saieshwari715/october/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saieshwari715/october/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Saieshwari715/october/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
