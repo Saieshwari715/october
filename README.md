@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Saieshwari715/october/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Saieshwari715/october/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saieshwari715/october/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/Saieshwari715/october/tree/master/1044-find-common-characters) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Saieshwari715/october/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saieshwari715/october/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saieshwari715/october/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/Saieshwari715/october/tree/master/0924-fair-candy-swap) |
+| [1044-find-common-characters](https://github.com/Saieshwari715/october/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saieshwari715/october/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saieshwari715/october/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Saieshwari715/october/tree/master/1848-sum-of-unique-elements) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Saieshwari715/october/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Saieshwari715/october/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/Saieshwari715/october/tree/master/0874-backspace-string-compare) |
+| [1044-find-common-characters](https://github.com/Saieshwari715/october/tree/master/1044-find-common-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/october/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/Saieshwari715/october/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
