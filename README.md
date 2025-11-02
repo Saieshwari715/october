@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Saieshwari715/october/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/Saieshwari715/october/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Saieshwari715/october/tree/master/1044-find-common-characters) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Saieshwari715/october/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/october/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Saieshwari715/october/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Saieshwari715/october/tree/master/1960-check-if-the-sentence-is-pangram) |
