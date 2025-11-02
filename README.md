@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saieshwari715/october/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Saieshwari715/october/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Saieshwari715/october/tree/master/1904-second-largest-digit-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Saieshwari715/october/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saieshwari715/october/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Saieshwari715/october/tree/master/1044-find-common-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/october/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Saieshwari715/october/tree/master/1904-second-largest-digit-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Saieshwari715/october/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Saieshwari715/october/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
