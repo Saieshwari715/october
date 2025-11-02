@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/october/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Saieshwari715/october/tree/master/1848-sum-of-unique-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Saieshwari715/october/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2727-number-of-senior-citizens](https://github.com/Saieshwari715/october/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Saieshwari715/october/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Saieshwari715/october/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Saieshwari715/october/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2727-number-of-senior-citizens](https://github.com/Saieshwari715/october/tree/master/2727-number-of-senior-citizens) |
 ## Backtracking
 |  |
 | ------- |
